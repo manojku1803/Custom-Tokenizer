@@ -44,3 +44,14 @@ cd Custom-Tokenizer
 ```bash
 node tokenizer.js
 ```
+
+---
+## 📌 Example
+### Input Text:
+```input
+The quick brown fox jumps over the lazy dog!
+```
+### Console Output:
+<img width="1571" height="298" alt="image" src="https://github.com/user-attachments/assets/07fa6bea-3a43-437d-9662-72c0c340193d" />
+
+
